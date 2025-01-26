@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/WebRoot/WEB-INF/lib/jspupload.jar" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/cn/itbaizhan/action/AddToCarAction.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/cn/itbaizhan/action/AdminAction.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/cn/itbaizhan/action/CommodityAction.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/cn/itbaizhan/action/CommodityClassAction.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/cn/itbaizhan/action/GoIndexAction.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/cn/itbaizhan/action/MessageAction.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/cn/itbaizhan/action/OrderFormAction.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/cn/itbaizhan/action/UserAction.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/cn/itbaizhan/dao/AdminDao.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/cn/itbaizhan/dao/CommodityClassDao.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/cn/itbaizhan/dao/CommodityDao.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/cn/itbaizhan/dao/MessageDao.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/cn/itbaizhan/dao/OrderFormDao.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/cn/itbaizhan/dao/UserDao.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/cn/itbaizhan/dao/impl/AdminDaoImpl.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/cn/itbaizhan/dao/impl/CommodityClassDaoImpl.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/cn/itbaizhan/dao/impl/CommodityDaoImpl.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/cn/itbaizhan/dao/impl/MessageDaoImpl.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/cn/itbaizhan/dao/impl/OrderFormDaoImpl.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/cn/itbaizhan/dao/impl/UserDaoImpl.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/cn/itbaizhan/po/Admin.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/cn/itbaizhan/po/Commodity.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/cn/itbaizhan/po/CommodityClass.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/cn/itbaizhan/po/Message.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/cn/itbaizhan/po/OrderForm.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/cn/itbaizhan/po/User.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/cn/itbaizhan/service/AdminService.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/cn/itbaizhan/service/CommodityClassService.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/cn/itbaizhan/service/CommodityService.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/cn/itbaizhan/service/MessageService.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/cn/itbaizhan/service/OrderFormService.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/cn/itbaizhan/service/UserService.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/cn/itbaizhan/service/impl/AdminServiceImpl.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/cn/itbaizhan/service/impl/CommodityClassServiceImpl.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/cn/itbaizhan/service/impl/CommodityServiceImpl.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/cn/itbaizhan/service/impl/MessageServiceImpl.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/cn/itbaizhan/service/impl/OrderFormServiceImpl.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/cn/itbaizhan/service/impl/UserServiceImpl.java" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
