@@ -3,7 +3,7 @@ package cn.itbaizhan.action;
 import org.springframework.web.multipart.MultipartFile;
 
 /**
- * 文件上传工具类
+ * 文件上传工具类List<Commodity> car
  */
 
 public class UploadUtil {
